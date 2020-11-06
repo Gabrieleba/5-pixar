@@ -1,0 +1,52 @@
+body > div {
+    display: inline-block;
+    width: 800px;
+    margin-left: calc( ( 100% - 800px ) / 2 );
+}
+    header {
+        display: inline-block;
+        background-color: red;
+        width: 800px;
+
+}
+    header > a {
+        display: inline-block;
+        float: left;
+        
+
+
+    } 
+    nav {
+        display: inline-block;
+        float: right;
+
+}
+        a {
+            display: inline-block;
+            float: right;
+           
+}
+    main {
+        display: inline-block;
+}
+    main > img {
+        display: inline-block;
+        float: left;
+        width: 35%;
+        margin-left: 10%;
+        }
+    main > div {
+        display: inline-block;
+        float: right;
+        width: 35%;
+        margin-right: 10%;
+        }
+        h1 {
+            display: inline-block;
+        }
+        p {
+            display: inline-block;
+        }
+        p{
+            display: inline-block;
+        }
